@@ -19,7 +19,7 @@
                   <p>FASHION</p>
                   <p>STYLE</p>
                   <p>BEAUTY</p>
-                  <p>NETWORK</p>
+                  <p>NET</p>
               </header>
                 <footer>
                     <a href="{{ url('/login') }}" class="button scrolly">ENTER</a>
